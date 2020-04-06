@@ -2,4 +2,4 @@ numpy
 pandas
 seaborn
 matplotlib
-scipy.optimize
+scipy
