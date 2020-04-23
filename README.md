@@ -6,4 +6,4 @@ You can run this notebook yourself using Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bws428/covid-19/master?filepath=covid-projections.ipynb)
 
-![Projected Cases plot](https://raw.githubusercontent.com/bws428/covid-19/master/covid-4.21.20.png)
+![Projected Cases plot](https://raw.githubusercontent.com/bws428/covid-19/master/covid-4.22.20.png)
