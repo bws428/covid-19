@@ -1,4 +1,4 @@
-# Introduction
+# Covid-19
 
 This Jupyter notebook uses the [Johns Hopkins Coronavirus dataset](https://github.com/CSSEGISandData/COVID-19/blob/master/README.md) to project and predict COVID case growth in the United States over the next 30 days.
 
