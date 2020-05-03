@@ -4,6 +4,6 @@ This Jupyter notebook uses the [Johns Hopkins Coronavirus dataset](https://githu
 
 You can run this notebook yourself using Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bws428/covid-19/master?filepath=covid-projections.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bws428/covid-19/master?filepath=covid-projections.nbconvert.ipynb)
 
 ![Projected Cases plot](https://raw.githubusercontent.com/bws428/covid-19/master/charts/covid-5.2.20.png)
