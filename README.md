@@ -9,3 +9,6 @@ You can run this notebook yourself using Binder:
 ![Projected Cases plot](https://raw.githubusercontent.com/bws428/covid-19/master/charts/covid-5.6.20.png)
 
 ![Projected Deaths plot](https://raw.githubusercontent.com/bws428/covid-19/master/charts/covid-deaths-5.6.20.png)
+
+![Casualties plot](https://raw.githubusercontent.com/bws428/covid-19/master/charts/casualties.png)
+
